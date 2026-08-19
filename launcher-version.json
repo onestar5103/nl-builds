@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "note": "新版本：四重下载保障（镜像/GitHub/S3/自建服务器）、下载进度显示、版本更新通知",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.2.0"
+  "version": "0.2.1",
+  "note": "下载源顺序调整：优先对象存储 → 镜像代理 → GitHub 直连 → 自建服务器",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.2.1"
 }
