@@ -1,12 +1,6 @@
 {
   "versions": [
     {
-      "tag": "v1.5.3",
-      "name": "v1.5.3",
-      "changelog": " 1.修改自动保存cfg的逻辑，现在不应该开启或关闭菜单自动保存，应该是点击保存按键才会进行保存\n2.在“Tools”增加“Logo Text”可以自定义neverlose logo名称\n3.经过实际测试删除如下功能，“Prefer Resolver Center”，“Shared ESP”，“Fix Backtrack”。\n4.将“About Panel”，“Sidebar Chat”隐藏功能移除默认是neverlose本身的逻辑。\n5.修复“Lock Menu Layout”点击后恢复neverlose默认大小，现在是点击后会锁定当前大小。\n6.增加一些库，由于之前库存在不完整将不安全的库直接return true。",
-      "published_at": "2026-09-19"
-    },
-    {
       "tag": "v1.5.2",
       "name": "v1.5.2",
       "changelog": "更新所有功能neverlose本体可调整",
