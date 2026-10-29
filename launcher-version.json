@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "note": "加入 CS2 neverlose",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.0"
+  "version": "0.3.1",
+  "note": "新增 CS2 文件夹快捷入口，内置 CS2 中文语言包",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.1"
 }
