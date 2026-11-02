@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "note": "新增 CS2 文件夹快捷入口，内置 CS2 中文语言包",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.1"
+  "version": "0.3.2",
+  "note": "新增 CS2 手动注入，修复订阅列表横向滚动",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.2"
 }
