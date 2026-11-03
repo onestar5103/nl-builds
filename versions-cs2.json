@@ -1,5 +1,46 @@
 {
   "versions": [
-    { "tag": "cs2-v1.0.0", "name": "cs2-v1.0.0", "changelog": "首个 CS2 版本", "published_at": "2026-10-28" }
+    {
+      "tag": "cs2-v1.2.4",
+      "name": "cs2-v1.2.4",
+      "changelog": "修复jump bug 无法使用问题\n 可能会在跳跃时候掉帧",
+      "published_at": "2026-11-03"
+    },
+    {
+      "tag": "cs2-v1.2.3",
+      "name": "cs2-v1.2.3",
+      "changelog": "修复内容较多看群公告",
+      "published_at": "2026-11-02"
+    },
+    {
+      "tag": "cs2-v1.2.2",
+      "name": "cs2-v1.2.2",
+      "changelog": "修复掉帧，水印修复",
+      "published_at": "2026-11-01"
+    },
+    {
+      "tag": "cs2-v1.2.1",
+      "name": "cs2-v1.2.1",
+      "changelog": "修复掉帧，用户名称和头像沿用steam",
+      "published_at": "2026-10-29"
+    },
+    {
+      "tag": "cs2-v1.2.0",
+      "name": "cs2-v1.2.0",
+      "changelog": "修复keybind等无法拖动问题，修复计分板武器，修复掉帧问题，注入后自动获取中文",
+      "published_at": "2026-10-29"
+    },
+    {
+      "tag": "cs2-v1.1.0",
+      "name": "cs2-v1.1.0",
+      "changelog": "去除烟雾/闪光功能修复\n按 [End] 键会导致游戏崩溃修复\n 掉帧问题修复 \n 已知问题还有点没修复",
+      "published_at": "2026-10-28"
+    },
+    {
+      "tag": "cs2-v1.0.0",
+      "name": "cs2-v1.0.0",
+      "changelog": "首个 CS2 版本。\n参数、脚本、语言等内容地址为：C:/starlose。\n还有bug没有修复今晚修复。",
+      "published_at": "2026-10-28"
+    }
   ]
 }
