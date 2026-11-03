@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
-  "note": "新增 CS2 手动注入，修复订阅列表横向滚动",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.2"
+  "version": "0.3.3",
+  "note": "新增一键热更新与自动启动开关，下载源改为自建优先",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.3"
 }
