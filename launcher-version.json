@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
-  "note": "下载源恢复 S3 优先，热更新保持可用",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.4"
+  "version": "0.3.5",
+  "note": "更新提示改回横幅，新增每日公益免费公告",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.5"
 }
