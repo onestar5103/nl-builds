@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
-  "note": "新增一键热更新与自动启动开关，下载源改为自建优先",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.3"
+  "version": "0.3.4",
+  "note": "下载源恢复 S3 优先，热更新保持可用",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v0.3.4"
 }
