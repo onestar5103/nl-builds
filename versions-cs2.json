@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "tag": "cs2-v1.2.5",
+      "name": "cs2-v1.2.5",
+      "changelog": "回退修复",
+      "published_at": "2026-11-04"
+    },
+    {
       "tag": "cs2-v1.2.4",
       "name": "cs2-v1.2.4",
       "changelog": "修复jump bug 无法使用问题\n 可能会在跳跃时候掉帧",
