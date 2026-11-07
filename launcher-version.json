@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "note": "v1.0.0 正式版：双游戏支持 + 自动启动开关 + 公益公告",
-  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v1.0.0"
+  "version": "1.0.1",
+  "note": "CS2 数据目录调整为 C:\\neverwin，语言包与文件夹入口同步",
+  "url": "https://github.com/onestar5103/nl-builds/releases/tag/loader-v1.0.1"
 }
